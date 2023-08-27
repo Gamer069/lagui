@@ -1,0 +1,1 @@
+{"rustc":12703557737569866254,"features":"","target":0,"profile":0,"path":0,"deps":[[16213919113115369142,"build_script_build",false,5296963305399088101]],"local":[{"RerunIfChanged":{"output":"debug/build/winit-9ca4d98f20e989cf/output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

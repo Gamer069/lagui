@@ -1,0 +1,12 @@
+/Users/illia/Desktop/Projects/@rust/lagui/target/debug/deps/dispatch-05c4b3de000c80cd.rmeta: /Users/illia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/lib.rs /Users/illia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/ffi.rs /Users/illia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/group.rs /Users/illia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/queue.rs /Users/illia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/once.rs /Users/illia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/sem.rs
+
+/Users/illia/Desktop/Projects/@rust/lagui/target/debug/deps/libdispatch-05c4b3de000c80cd.rlib: /Users/illia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/lib.rs /Users/illia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/ffi.rs /Users/illia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/group.rs /Users/illia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/queue.rs /Users/illia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/once.rs /Users/illia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/sem.rs
+
+/Users/illia/Desktop/Projects/@rust/lagui/target/debug/deps/dispatch-05c4b3de000c80cd.d: /Users/illia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/lib.rs /Users/illia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/ffi.rs /Users/illia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/group.rs /Users/illia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/queue.rs /Users/illia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/once.rs /Users/illia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/sem.rs
+
+/Users/illia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/lib.rs:
+/Users/illia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/ffi.rs:
+/Users/illia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/group.rs:
+/Users/illia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/queue.rs:
+/Users/illia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/once.rs:
+/Users/illia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/sem.rs:
